@@ -1,0 +1,38 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 3000
+Files info:
+Site URL = https://test2.makeitwork.com.pl
+Data file = /home/klient.dhosting.pl/twierzbowsk/test2.makeitwork.com.pl/wp-content/uploads/2022/11/content.xml
+Widget file = /home/klient.dhosting.pl/twierzbowsk/test2.makeitwork.com.pl/wp-content/uploads/2022/11/widgets.wie
+Customizer file = /home/klient.dhosting.pl/twierzbowsk/test2.makeitwork.com.pl/wp-content/uploads/2022/11/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog (sidebar) : 
+
+Wyszukiwanie - No Title - Imported
+Kategorie - Categories - Imported
+Najnowsze komentarze - Comments - Imported
+Chmurka tagów - Tags - Imported
+
+Site (footer) : 
+
+Tekst - No Title - Imported
+Menu nawigacji - Listings - Imported
+Kategorie - Blog - Imported
+Menu nawigacji - Social - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

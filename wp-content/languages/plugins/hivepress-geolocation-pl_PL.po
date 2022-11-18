@@ -1,0 +1,126 @@
+# Translation of Plugins - HivePress Geolocation - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - HivePress Geolocation - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-21 12:23:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - HivePress Geolocation - Stable (latest release)\n"
+
+#: includes/components/class-geolocation.php:674
+msgctxt "sort order"
+msgid "Distance"
+msgstr "Według odległości"
+
+#: includes/components/class-geolocation.php:751
+#: includes/components/class-geolocation.php:795
+msgid "Map"
+msgstr "Mapa"
+
+#: includes/configs/settings.php:39
+msgid "Map Provider"
+msgstr "Dostawca map"
+
+#: includes/components/class-geolocation.php:183
+msgid "Region"
+msgstr "Region"
+
+#: includes/components/class-geolocation.php:182
+#: includes/configs/settings.php:94
+msgid "Regions"
+msgstr "Regiony"
+
+#: includes/components/class-geolocation.php:184
+msgid "Add Region"
+msgstr "Dodaj region"
+
+#: includes/components/class-geolocation.php:185
+msgid "Edit Region"
+msgstr "Edytuj region"
+
+#: includes/components/class-geolocation.php:187
+msgid "View Region"
+msgstr "Zobacz region"
+
+#: includes/components/class-geolocation.php:188
+msgid "Parent Region"
+msgstr "Region nadrzędny"
+
+#: includes/components/class-geolocation.php:186
+msgid "Update Region"
+msgstr "Zaktualizuj region"
+
+#: includes/configs/settings.php:95
+msgid "Check this option to create a page for each region."
+msgstr "Wybierz tę opcję aby stworzyć stronę dla każdego regionu."
+
+#: includes/configs/settings.php:88
+msgid "Allow users to change radius"
+msgstr "Pozwól użytkownikom na zmianę promienia"
+
+#: includes/configs/settings.php:96
+msgid "Generate regions from locations"
+msgstr "Generuj regiony na podstawie lokalizacji"
+
+#: includes/components/class-geolocation.php:190
+msgid "No regions found"
+msgstr "Nie znaleziono żadnego regionu"
+
+#: includes/components/class-geolocation.php:189
+msgid "Search Regions"
+msgstr "Szukaj regiony"
+
+#: includes/configs/settings.php:103
+msgid "Hide the exact address"
+msgstr "Ukryj dokładny adres"
+
+#: includes/configs/settings.php:102
+msgid "Address"
+msgstr "Adres"
+
+#: includes/configs/settings.php:61
+msgid "Zoom"
+msgstr "Powiększenie"
+
+#: includes/configs/settings.php:15
+msgid "Geolocation"
+msgstr "Geolokalizacja"
+
+#: includes/components/class-geolocation.php:641
+#: includes/configs/settings.php:72
+msgid "Radius"
+msgstr "Promień"
+
+#: includes/configs/settings.php:52
+msgid "Countries"
+msgstr "Kraje"
+
+#. Description of the plugin
+msgid "Allow users to search listings by location."
+msgstr "Pozwól użytkownikom szukać ogłoszeń według lokalizacji."
+
+#: includes/components/class-geolocation.php:118
+#: includes/components/class-geolocation.php:126
+#: includes/components/class-geolocation.php:738
+msgid "Location"
+msgstr "Lokalizacja"
+
+#: includes/fields/class-location.php:113
+msgid "Locate Me"
+msgstr "Zlokalizuj mnie"
+
+#. Plugin Name of the plugin
+msgid "HivePress Geolocation"
+msgstr "HivePress Geolokalizacja"
+
+#. Author of the plugin
+msgid "HivePress"
+msgstr "HivePress"
+
+#. Author URI of the plugin
+msgid "https://hivepress.io/"
+msgstr "https://hivepress.io/"
