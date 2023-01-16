@@ -1,4 +1,7 @@
 <?php
+
+// comment to test ci cd
+
 /**
  * The base configuration for WordPress
  *
