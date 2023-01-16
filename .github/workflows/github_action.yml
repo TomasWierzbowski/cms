@@ -14,6 +14,6 @@ jobs:
         username: ${{ secrets.USER }}
         password: ${{ secrets.PASS }}
         port: 22
-        scripts: |
+        script: |
             cd test2.makeitwork.com.pl
             git pull git@github.com:TomasWierzbowski/cms.git
