@@ -1,6 +1,8 @@
 <?php
 
-// comment to test ci cd
+define( 'WP_HOME', 'https://makeitwork.com.pl/' );
+define( 'WP_SITEURL', 'https://makeitwork.com.pl/' );
+
 
 /**
  * The base configuration for WordPress
